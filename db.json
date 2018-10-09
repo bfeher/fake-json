@@ -5,5 +5,5 @@
     { "id": 3, "name": "Post 3", "type": "delivery", "recreational": true, "medical": false, "order": true },
     { "id": 4, "name": "Post 4", "type": "doctor", "recreational": false, "medical": true, "order": false },
     { "id": 5, "name": "Post 5", "type": "storefront", "recreational": true, "medical": false, "order": true }
-  ],
+  ]
 }
