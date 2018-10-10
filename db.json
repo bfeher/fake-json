@@ -29,26 +29,6 @@
     { "id": 27, "name": "Post 27", "type": "storefront",  "recreational": false,  "medical": true,  "order": true   },
     { "id": 28, "name": "Post 28", "type": "delivery",    "recreational": true,   "medical": false, "order": true   },
     { "id": 29, "name": "Post 29", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 30, "name": "Post 30", "type": "storefront",  "recreational": true,   "medical": false, "order": true   },
-    { "id": 31, "name": "Post 31", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 32, "name": "Post 32", "type": "storefront",  "recreational": false,  "medical": true,  "order": true   },
-    { "id": 33, "name": "Post 33", "type": "delivery",    "recreational": true,   "medical": false, "order": true   },
-    { "id": 34, "name": "Post 34", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 35, "name": "Post 35", "type": "storefront",  "recreational": true,   "medical": false, "order": true   },
-    { "id": 36, "name": "Post 36", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 37, "name": "Post 37", "type": "storefront",  "recreational": false,  "medical": true,  "order": true   },
-    { "id": 38, "name": "Post 38", "type": "delivery",    "recreational": true,   "medical": false, "order": true   },
-    { "id": 39, "name": "Post 39", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 40, "name": "Post 40", "type": "storefront",  "recreational": true,   "medical": false, "order": true   },
-    { "id": 41, "name": "Post 41", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 42, "name": "Post 42", "type": "storefront",  "recreational": false,  "medical": true,  "order": true   },
-    { "id": 43, "name": "Post 43", "type": "delivery",    "recreational": true,   "medical": false, "order": true   },
-    { "id": 44, "name": "Post 44", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 45, "name": "Post 45", "type": "storefront",  "recreational": true,   "medical": false, "order": true   },
-    { "id": 46, "name": "Post 46", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 47, "name": "Post 47", "type": "storefront",  "recreational": false,  "medical": true,  "order": true   },
-    { "id": 48, "name": "Post 48", "type": "delivery",    "recreational": true,   "medical": false, "order": true   },
-    { "id": 49, "name": "Post 49", "type": "doctor",      "recreational": false,  "medical": true,  "order": false  },
-    { "id": 50, "name": "Post 50", "type": "storefront",  "recreational": true,   "medical": false, "order": true   }
+    { "id": 30, "name": "Post 30", "type": "storefront",  "recreational": true,   "medical": false, "order": true   }
   ]
 }
